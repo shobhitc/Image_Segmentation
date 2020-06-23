@@ -1,2 +1,2 @@
 # Image_Segmentation
-Basic programs to learn Image segmentation using Computer Vision
+Basic application to learn Image segmentation using Computer Vision
